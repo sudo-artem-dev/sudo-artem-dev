@@ -25,7 +25,7 @@
 
 ### My Frameworks / Library
 
-<img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="Vue.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Tailwind CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
@@ -41,6 +41,8 @@
 <img align="left" alt="FileZilla" width="30px" src="https://static-00.iconduck.com/assets.00/filezilla-icon-2048x2047-v8bjgpaf.png" />
 <img align="left" alt="Postman" width="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <img align="left" alt="PuTTY" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/800px-PuTTY_Icon.svg.png" />
+
+<br><br>
 
 <p align="left">
   <a href="https://github.com/sudo-artem-dev"><img src="https://github-readme-stats.vercel.app/api?username=sudo-artem-dev&hide_border=true&show_icons=true" alt="Artem's github stats"></a>
