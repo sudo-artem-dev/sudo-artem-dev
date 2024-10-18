@@ -34,15 +34,14 @@
 
 ### My Tools and Software
 
-<img align="left" alt="GIT" width="50px" src="https://w7.pngwing.com/pngs/936/844/png-transparent-git-hd-logo-thumbnail.png" />
-<img align="left" alt="Jira" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" />
+<img align="left" alt="GIT" width="50px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/git/git.png" />
+<img align="left" alt="Jira" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" />
 <img align="left" alt="Confluence" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968793.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="FileZilla" width="50px" src="https://static-00.iconduck.com/assets.00/filezilla-icon-2048x2047-v8bjgpaf.png" />
 <img align="left" alt="Postman" width="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <img align="left" alt="PuTTY" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/800px-PuTTY_Icon.svg.png" />
 
-<br><br>
 <br><br>
 
 <p align="left">
