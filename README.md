@@ -20,7 +20,7 @@
 <img align="left" alt="Angular" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />  
 <img align="left" alt="Tailwind CSS" width="50px" src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" />  
 <img align="left" alt="React" width="50px" src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" /> 
-<img align="left" alt="Next" width="50px" src="https://images.seeklogo.com/logo-png/44/2/next-js-logo-png_seeklogo-449824.png" /> 
+<img align="left" alt="Next" width="50px" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" /> 
 
 
 <br><br>
